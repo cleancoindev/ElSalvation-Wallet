@@ -238,7 +238,7 @@
     "favicons": "^6.2.2",
     "ghost-bitcore-lib": "git+https://github.com/swaponline/ghost-bitcore-lib.git",
     "graphql": "^16.0.0",
-    "graphql-request": "^3.4.0",
+    "graphql-request": "^7.1.0",
     "history": "^4.9.0",
     "human-standard-token-abi": "^2.0.0",
     "ip": "^2.0.1",
